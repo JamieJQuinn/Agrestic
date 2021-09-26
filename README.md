@@ -1,9 +1,3 @@
-# Fabric Example Mod
+# Agrestic
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Agrestic extends Minecraft's farming and cooking system to provide a more immersive experience. It is similar but complementary to the excellent (1.12) mod, [Rustic](https://github.com/the-realest-stu/Rustic).
